@@ -129,18 +129,21 @@ nav {
     align-self: end;
 }
 .info h1 {
+    font-size: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .info h2 {
+    font-size: 50px;
     padding: 20px 0px;
-    color: rgb(19, 37, 44);
+    color: rgb(246, 251, 253);
 
 }
 
 .info p {
-    font-size: 24px;
+    font-size: 40px;
     padding: 10px 0px 40px 0px;
+    letter-spacing: 6px;
 }
 
 .info-1 {
