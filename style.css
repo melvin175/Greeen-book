@@ -22,9 +22,6 @@ body{
 
 .logo{
     font-size: 50px;
-    font-type: bold;
-    justify-content: center;
-
 }
 
 .portofolio {
@@ -132,14 +129,12 @@ nav {
     align-self: end;
 }
 .info h1 {
-    font-size: 64px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .info h2 {
-    font-size: 42px; 
     padding: 20px 0px;
-    color: rgb(0, 0, 0);
+    color: rgb(19, 37, 44);
 
 }
 
@@ -171,7 +166,6 @@ nav {
     right: 5%;
     top: 50%;
     transform: translateY(-50%);
-    display: flex;
 }
 .page-2{
     position: absolute;
@@ -389,7 +383,7 @@ text-align: center;
     background: white;
     z-index: 2;
     color: black;
-    padding-top: 10vh;
+    padding-top: 5vh;
     text-align: center;
     transform: translateY(25%);
     transition: transform 0.5s ease-out;
